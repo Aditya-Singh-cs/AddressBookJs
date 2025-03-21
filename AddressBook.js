@@ -70,3 +70,7 @@ function contactDetails(firstName,lastName,address,state,city,zipCode,email,phon
         }
     }   
 }
+
+//UC3 
+contactDetails('Aditya', 'Singh', 'Home', 'Uttar Pradesh', 'Mathura', "281001", 'aditya@gmail.com', "1234567890");
+console.log(addressBook);
